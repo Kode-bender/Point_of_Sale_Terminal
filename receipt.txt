@@ -1,0 +1,48 @@
+ReceiptID#1257
+Arries Cosmetics Ltd 
+ P.O. Box 23 
+Nairobi
+
+12:57:22 26/07/2023
+Served By: so4626
+Customer Name: steve
+Product Name: RazerV3-RGB
+Quantity: 2
+Total Price: 11802
+Discount: 0
+Subtotal: 11802
+Cash Amount : 12000
+Balance: 198.02
+
+ReceiptID#1257
+Arries Cosmetics Ltd 
+ P.O. Box 23 
+Nairobi
+
+13:00:27 26/07/2023
+Served By: so4626
+Customer Name: steve
+Product Name: hpelite860
+Quantity: 1
+Total Price: 105399
+Discount: 0
+Subtotal: 105399
+Cash Amount : 105399
+Balance: 0.01
+
+ReceiptID#7153
+Arries Cosmetics Ltd 
+ P.O. Box 23 
+Nairobi
+
+14:18:55 26/07/2023
+Served By: so4626
+Customer Name: steve
+Product Name: DellX15S
+Quantity: 2
+Total Price: 65200
+Discount: 0
+Subtotal: 65200
+Cash Amount : 65200
+Balance: 0
+

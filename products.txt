@@ -1,0 +1,24 @@
+1001        hpelite860	         15         105398.99	    Laptop          
+1002        samsungA12	         20         24500.99	    Smartphone      
+1003        SM-ModelB	         10         34900.99	    Tablet          
+1004        SmartTV-55"	         8          32400.99	    TV              
+1005        JBL-510BT	         25         4599.99	    Headphones             
+1007        Nikon-DSLR2550       5          12899.99	    Camera          
+1008        Huawei-ModelS        18         1990.99	    Smartwatch      
+1009        Espos300	         7          59850.99	    Printer         
+1010        ROG-QDOTX9-27"       9          29900.99	    Monitor         
+1011        JLB-6690	         30         11500.99	    Speaker         
+1012        RazerV3-RGB	         15         5900.99	    Mouse           
+1013        ToshibaHDD-2TB       20         8900.99	    Storage         
+1014        D-LinkAC1200         12         7900.99	    Router          
+1015        DJI-Mini3Pro4K       8          17899.99	    Drone           
+1016        Echo(4thgen)         10         14999.99	    SmartHub        
+1017        AnkerSlim	         25         599.99	    Charger         
+1018        T-WolfRGB	         18         2599.99	    Keyboard        
+1019        Oculus-VRQuest2      6          49999.99	    VR-Headset            
+1021        sanDiskSSD-1TB       5          10999.99	    Storage             
+1023        HP-Pavilionx360      10         56999.99	    Laptop          
+1024        HP-ENVY13	         5          109999.99	    Laptop          
+1025        HP-Spectrex360       8          13999.99	    Laptop          
+1026        HP-OMEN15	         12         69999.99	    Laptop          
+                                                                        1027        DellX15S           6         32600       Laptop
